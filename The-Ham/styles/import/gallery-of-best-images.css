@@ -1,0 +1,150 @@
+
+.best-images-wrapper {
+    width: 1160px;
+}
+
+.best-images-wrapper:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.best-images-sizer {
+    width: 32%;
+}
+
+.best-images-gutter {
+    width: 2%;
+}
+
+.best-images-sizer-small {
+    width: 119px;
+}
+
+.best-images-gutter-small {
+    width: 1px;
+}
+
+.best-images-item.best-images-wrapper-hidden {
+    display: none;
+}
+
+.best-images-item {
+    position: relative;
+    width: 32%;
+    margin-bottom: 10px;
+}
+
+.best-images-item img {
+    width: 100%;
+    height: 100%;
+}
+
+.item-middle-wrapper {
+    display: flex;
+    width: 370px;
+}
+
+.item-small-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    top: 0 !important; /* чтобы блок встал на свое место правильно */
+    width: 365px;
+}
+
+.item-small {
+    width: 119px;
+    height: 92px;
+    border-bottom: 3px solid #fff;
+}
+
+.item-small img {
+    width: 100%;
+}
+
+
+.best-images-behind {
+    width: 100%;
+    background-color: #000;
+    opacity: .5;
+}
+
+.item-hover {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 98.9%;
+    top: 0;
+
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.64);
+
+
+    transition: opacity .3s linear;
+}
+
+.item-hover:hover {
+    opacity: 1;
+}
+
+.item-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 5px;
+    padding: 10px;
+
+    background-color: #14B9D5;
+    cursor: pointer;
+}
+
+.item-icon:hover {
+    background-color: #189bb3;
+}
+
+
+.fa-search, .fa-arrows-alt {
+    cursor: pointer;
+    color: #fff;
+}
+
+.item-icon-small .fa {
+    font-size: 13px;
+}
+
+.item-icon-small .fas {
+    font-size: 13px;
+}
+
+
+/*Замена стандартного скрола*/
+::-webkit-scrollbar {
+    background-color: transparent;
+    height: 6px;
+    width: 6px;
+}
+
+::-webkit-scrollbar:hover {
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.26);
+    min-height: 48px;
+    min-width: 48px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #8d8d8d;
+}
+
+::-webkit-scrollbar-button {
+    width: 0;
+    height: 0;
+}

@@ -1,0 +1,33 @@
+@import "reset.css";
+
+@import "import/buttons.css";
+@import "import/block-name.css";
+@import "import/nav-bar.css";
+@import "import/header.css";
+@import "import/header.css";
+@import "import/options.css";
+@import "import/our-services.css";
+@import "import/purchase.css";
+@import "import/our-amazing-work.css";
+@import "import/loaders.css";
+@import "import/breaking-news.css";
+@import "import/what-people-say-about-theHam.css";
+@import "import/gallery-of-best-images.css";
+@import "import/footer.css";
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #777;
+}
+
+/* Container
+=======================================================*/
+.container {
+    width: 100%;
+    max-width: 1160px;
+    margin: 0 auto;
+}

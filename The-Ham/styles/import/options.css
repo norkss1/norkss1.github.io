@@ -1,0 +1,42 @@
+
+.option {
+    display: flex;
+
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+    width: 100%;
+
+}
+
+.option-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+    padding: 95px 0 110px;
+
+    width: 25%;
+}
+
+.option-item.dark {
+    background-color: #1C2A33;
+}
+
+.option-item.light {
+    background-color: #18CFAB;
+}
+
+.option-title {
+    padding-top: 50px;
+
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #18CFAB;
+}
+
+.option-title-light {
+    color: #fff;
+}

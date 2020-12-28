@@ -1,0 +1,134 @@
+
+.btn {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+
+    width: 170px;
+    height: 60px;
+
+
+    padding-top: 22px;
+
+    border-radius: 4px;
+
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.btn-green {
+    margin-right: 26px;
+
+    border: 1px solid #18CFAB;
+    background-color: #18CFAB;
+}
+
+.btn-blue {
+    border: 1px solid #00CBF6;
+    background-color: #00CBF6;
+}
+
+/* Header - Btn
+ =======================================================*/
+.btn-header {
+    margin-top: 135px;
+}
+
+
+
+/* Our Amazing Work - Btn
+ =======================================================*/
+.work-image-btn-wrapper {
+    position: relative;
+
+    margin: 70px auto 0;
+}
+
+.work-image-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 auto;
+    padding: 22px 0;
+
+    width: 168px;
+    height: 63px;
+
+    cursor: pointer;
+    outline: none;
+
+    visibility: visible;
+}
+
+.work-image-btn:hover {
+    outline: none;
+    background-color: #26ae8c;
+
+    transition: background-color .3s linear;
+}
+
+.work-image-btn-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+}
+
+.work-image-btn-content span {
+    padding-left: 15px;
+
+    font-weight: 700;
+    color: #fff;
+
+    cursor: pointer;
+}
+
+
+/* Gallery of best images - Btn
+ =======================================================*/
+.best-images-btn-wrapper {
+    position: relative;
+    margin: 20px auto;
+    padding: 50px 0 80px;
+}
+
+.best-images-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 auto;
+    padding: 22px 0;
+
+    width: 168px;
+    height: 63px;
+
+    cursor: pointer;
+    outline: none;
+    visibility: visible;
+    transition: background-color .3s linear;
+}
+
+.best-images-btn:hover {
+    outline: none;
+    background-color: #26ae8c;
+}
+
+.best-images-btn-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.best-images-btn-content span {
+    padding-left: 15px;
+
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+}
