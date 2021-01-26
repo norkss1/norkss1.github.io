@@ -3,9 +3,7 @@
   width: 100%;
   margin: 0 auto;
 
-  background: url("/dist/images/people-talking/people-talking-bg.png") no-repeat;
-  background-size: cover;
-  background-position: center;
+  background: no-repeat center/cover url("./dist/images/people-talking/people-talking-bg.png");
 
   &__wrapper {
     @include flex-center;

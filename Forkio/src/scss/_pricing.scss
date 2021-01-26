@@ -1,8 +1,7 @@
 .pricing{
   margin: 0 auto;
   max-width: 1200px;
-  background: url("/dist/images/background_price.jpg") center no-repeat;
-  background-size: cover;
+  background: no-repeat center/cover url("./dist/images/background_price.jpg");
 
   &__wrapper{
     display: flex;
