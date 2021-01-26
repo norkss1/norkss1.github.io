@@ -48,7 +48,7 @@
   }
 
   &:hover .navbar-logo__image {
-    background: url("./dist/images/navbar/navbar_logo-hover.png") no-repeat;
+    background: url("../images/navbar/navbar_logo-hover.png") no-repeat;
   }
 
   &:hover .navbar-logo__title {
@@ -58,7 +58,7 @@
   .navbar-logo__image {
     width: 43px;
     height: 41px;
-    background: url("./dist/images/navbar/navbar_logo.png") no-repeat;
+    background: url("../images/navbar/navbar_logo.png") no-repeat;
     background-size: cover;
     transition: background .2s linear;
     cursor: pointer;
