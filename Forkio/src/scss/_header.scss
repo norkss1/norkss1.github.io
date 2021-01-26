@@ -8,8 +8,7 @@
   margin: 0 auto;
   height: 100vh;
 
-  background: url(/dist/images/header/header_background.png) center no-repeat;
-  background-size: cover;
+  background: no-repeat center/cover url(../images/header/header_background.png);
 
   @media (max-width: $screen-sm) {
     max-height: 90vh;
