@@ -188,6 +188,7 @@
 
 .code__example {
   grid-area: example;
+
 }
 
 .code {
@@ -269,7 +270,10 @@
     }
 
     &__example {
+      width: 130%;
       text-align: end;
+      max-width: 97vw;
+      overflow: hidden;
 
       img {
         width: 100%;
@@ -351,10 +355,13 @@
 
     &__example {
       width: 130%;
+      max-width: 97vw;
+      overflow: hidden;
       text-align: end;
 
       img {
         width: 130%;
+        max-width: 80vh;
         //margin-right: -94px;
       }
     }

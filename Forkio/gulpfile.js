@@ -69,7 +69,7 @@ gulp.task('scripts', scripts);
 gulp.task('styles', styles);
 
 
-gulp.task('build', gulp.series('clean', 'styles', 'scripts', 'images'));
+gulp.task('build', gulp.parallel('clean', 'styles', 'scripts', 'images'));
 gulp.task('dev', gulp.series('build', 'watch', 'cleanCache'));
 
 gulp.task('default', gulp.parallel('dev'));
