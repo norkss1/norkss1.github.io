@@ -2,7 +2,7 @@
   "name": "step-project-cards",
   "version": "1.0.0",
   "description": "Dmytro Zyakun || Roman Kalychak || Volodimir Zhukivskyi",
-  "main": "scripts/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "parcel index.html",
     "pro": "parcel build index.html --public-url ."
