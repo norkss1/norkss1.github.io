@@ -9,9 +9,9 @@ __________________________
 ||
 - Filters
 - CSS Design
-
+- AJAX requests
  **Github pages**:
-
+https://github.com/norkss1/norkss1.github.io/edit/master/Cards
 ||
 **Dmytro Zyakun**
 ||
