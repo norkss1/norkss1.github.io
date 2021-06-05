@@ -7,7 +7,6 @@ node_modules/**/*
 *.iml
 package-lock.json
 debug.log
-README.md
 /src
 /public
 /modules
