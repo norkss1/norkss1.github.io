@@ -1,0 +1,14 @@
+/node_modules
+.idea
+/.cache
+.idea/**/*
+node_modules/**/*
+*.xml
+*.iml
+package-lock.json
+debug.log
+README.md
+/src
+/public
+/modules
+

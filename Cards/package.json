@@ -1,0 +1,30 @@
+{
+  "name": "step-project-cards",
+  "version": "1.0.0",
+  "description": "Dmytro Zyakun || Roman Kalychak || Volodimir Zhukivskyi",
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "pro": "parcel build public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/home96.09/step-project-cards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/home96.09/step-project-cards/issues"
+  },
+  "homepage": "https://gitlab.com/home96.09/step-project-cards#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-clean-easy": "^1.0.2"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "modules": "^0.4.0"
+  }
+}
