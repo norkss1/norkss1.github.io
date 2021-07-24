@@ -1,4 +1,5 @@
-## In this project i made implement layout for homepage site. Used technologies:
+## In this project i made implement layout for homepage site. 
+# Used technologies:
 
 <p align="center">
   <img src="images/result1.gif">
