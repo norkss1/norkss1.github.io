@@ -25,7 +25,7 @@
 
 ---
 
-- **Masonry library, this made the arrangement of pictures nice and neat**
+- **Masonry library, this made the position of the pictures nice and neat**
  
 <p align="center">
   <img src="images/result4.gif">
