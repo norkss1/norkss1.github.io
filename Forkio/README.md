@@ -40,6 +40,3 @@ __________________________
 <p align="center">
     <img src="src/images/result-media.gif">
 </p>
- 
- **Authors of the project**:
-Dmytro Zyakun || Roman Kalychak
