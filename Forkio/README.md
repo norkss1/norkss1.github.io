@@ -1,8 +1,5 @@
-# Step-project-Forkio
-
-**Authors of the project**:
-Dmytro Zyakun || Roman Kalychak
-
+# Project-Forkio
+## Here I have shown a responsive layout.
 __________________________
 **Technologies used**:
 - HTML and CSS
@@ -23,6 +20,15 @@ __________________________
 - Figma
 
 
+<p align="center">
+  <img src="images/result1.gif">
+</p>
+
+<p align="center">
+  <img src="images/result2.gif">
+</p>
+
+---
 __________________________
 **Roman Kalychak**
 - Gulp
@@ -40,6 +46,9 @@ __________________________
 - section "Fork Subscription Pricing"
 
  **Gitlab pages**: https://zyakun.d.gitlab.io/main-step-project-forkio/
+ 
+ **Authors of the project**:
+Dmytro Zyakun || Roman Kalychak
 
 
 
