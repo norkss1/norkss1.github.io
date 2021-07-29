@@ -20,35 +20,26 @@ __________________________
 - Figma
 
 
-<p align="center">
-  <img src="images/result1.gif">
-</p>
-
-<p align="center">
-  <img src="images/result2.gif">
+<p>
+    <img src="src/images/result1.gif">
+    <img align="right" width="120px" height="260px" src="src/images/result2.gif">
 </p>
 
 ---
-__________________________
-**Roman Kalychak**
-- Gulp
-- Navbar and header
-- "Burger" Menue
-- section "People Are Talking About Fork"
 
- **Github pages**: https://norkss1.github.io/Forkio/
+- **javascript for burger menu**
 
- 
-**Dmytro Zyakun**
-- Gulp
-- section "Revolutionary Editor"
-- section "Here is what you get"
-- section "Fork Subscription Pricing"
+<p align="center">
+    <img src="src/images/result-burger.gif">
+</p>
 
- **Gitlab pages**: https://zyakun.d.gitlab.io/main-step-project-forkio/
+---
+
+- **media queries in css for responsive layout**
+
+<p align="center">
+    <img src="src/images/result-media.gif">
+</p>
  
  **Authors of the project**:
 Dmytro Zyakun || Roman Kalychak
-
-
-
